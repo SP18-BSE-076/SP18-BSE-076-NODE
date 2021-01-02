@@ -1,4 +1,4 @@
 {
-    "db": "mongodb+srv://AsadNawaz:masadm46@cluster0.afujf.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "db": "mongodb+srv://hamza12345:12345@cluster0.rul2o.mongodb.net/Products?retryWrites=true&w=majority",
     "jwtPrivateKey" : "SomePrivateKey"
 }
